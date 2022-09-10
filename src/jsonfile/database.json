@@ -1,0 +1,8 @@
+{
+  "command": {
+    "sayhello": "print hello HeyGuys to user end",
+  },
+  "User": {
+    
+  }
+}

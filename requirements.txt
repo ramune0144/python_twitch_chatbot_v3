@@ -1,0 +1,4 @@
+aiohttp==3.8.1
+regex==2022.4.24
+requests==2.27.1
+twitchio==2.2.0
