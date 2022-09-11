@@ -1,4 +1,5 @@
-# twitch_bot_3<br>
+#This project is made for learning python. You can use this work without permission<br>
+# How to used<br>
 
 This bot can update command in twitch chat by $add@commandname@print ..... end <br>
 ex $add@hello@print hello to user end <br>
