@@ -1,6 +1,6 @@
 # twitch_bot_3<br>
 
-This bot can update command in twitch chat by $add@commandname@print ..... end
+This bot can update command in twitch chat by $add@commandname@print ..... end <br>
 ex $add@hello@print hello to user end <br>
 command will save in jsonfile <br>
 
