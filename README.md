@@ -13,4 +13,4 @@ ex !py ' '.join(map(str,[i for i in range(10) if i&1]))]<br>
 can add user nickname by !reg nickname<br>
 ex !reg Derprabbit
 <br>
-and cheak name by !nc<br>
+and check name by !nc<br>
